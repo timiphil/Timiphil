@@ -28,13 +28,21 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+👋 Hi, I’m Rotimi Phil Ishola
 
-- 👋 Hi, I’m Rotimi Phil Ishola
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on different projects on Web Dev
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/rotimi-ishola/)
+I'm currently looking for a full-time role in Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: I’m working and contributing to frontend for building web applications.
+
+- 👀 I’m interested in Web Development.
+
+- :seedling: Exploring Technical Content Writing, React and Typescript libraries.
+
+- :zap: In my free time, I solve problems on leetcode, Frontendmentors and read tech articles.
+
+- 💞️ I’m looking to collaborate on different projects on Web Dev.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Timiphil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
 
 <!---
 Timiphil/Timiphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
