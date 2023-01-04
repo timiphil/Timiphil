@@ -61,6 +61,7 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timiphil&theme=dark&background=000000)](https://git.io/streak-stats)
 <!---
 Timiphil/Timiphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
