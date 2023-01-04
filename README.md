@@ -65,6 +65,9 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timiphil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :writing_hand: Blog Posts :
 <!---
 Timiphil/Timiphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
