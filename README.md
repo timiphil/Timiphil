@@ -48,6 +48,10 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 [![Linkedin Badge](https://img.shields.io/badge/-Timiphil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
 [![Twitter Badge](https://img.shields.io/badge/-Timi_phil-white?style=flat&logo=Twitter&logoColor=blue)]([https://www.linkedin.com/in/rotimi-ishola/](https://twitter.com/Timi_phil))
 
+<p align="left">  
+<a href="mailto:timiphil@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+</p
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -68,6 +72,7 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timiphil&theme=dark&background=000000)](https://github.com/Timiphil)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timiphil&layout=compact&theme=vision-friendly-dark)](https://github.com/Timiphil?tab=repositories)
+
 
 ---
 
