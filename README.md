@@ -57,17 +57,14 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://img.icons8.com/color/35/000000/react--v1.png" title="React" alt="React" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/74196357/210816776-7a9f7cc4-b46e-488d-9a77-08d1c3b41255.png" title="React" alt="React" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML5" alt="HTML" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3" alt="CSS" width="40" height="40"/> 
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/35/000000/git.png" title="Git" **alt="Git" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/35/000000/github.png" title="Github" **alt="Github" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/74196357/210817368-94577ccf-4398-4fa3-b566-0039ce7319f1.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </div>
 
 ---
