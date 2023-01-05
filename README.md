@@ -44,7 +44,9 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 - 💞️ I’m looking to collaborate on different projects on Web Dev.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Timiphil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
+### How to reach me :mailbox: 
+[![Linkedin Badge](https://img.shields.io/badge/-Timiphil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
+[![Twitter Badge](https://img.shields.io/badge/-Timi_phil-white?style=flat&logo=Twitter&logoColor=blue)]([https://www.linkedin.com/in/rotimi-ishola/](https://twitter.com/Timi_phil))
 
 ---
 
