@@ -77,6 +77,10 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 
 ---
+### <h2 align="center">Visitor Count</h2>
+ <p align="center"> 
+ <img src="https://profile-counter.glitch.me/{Timiphil}/count.svg" alt="Timiphil" />
+</p>
 
 
 <!---
