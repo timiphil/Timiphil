@@ -46,11 +46,10 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 ### How to reach me :mailbox: :
 [![Linkedin Badge](https://img.shields.io/badge/-Timiphil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
-[![Twitter Badge](https://img.shields.io/badge/-Timi_phil-white?style=flat&logo=Twitter&logoColor=blue)]([https://www.linkedin.com/in/rotimi-ishola/](https://twitter.com/Timi_phil))
+[![Twitter Badge](https://img.shields.io/badge/-Timiphil-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Timi_phil)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:timiphil@gmail.com)
 
-<p align="left">  
-<a href="mailto:timiphil@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
-</p
+
 
 ---
 
