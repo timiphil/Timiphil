@@ -84,6 +84,10 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 ---
 ## My Latest Blog Posts📖
+---
+<p align="center"> 
+<a href="https://timiphil.github.io/MyPortfolio/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+</p>
 <!---
 Timiphil/Timiphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
