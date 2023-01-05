@@ -44,7 +44,7 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 - 💞️ I’m looking to collaborate on different projects on Web Dev.
 
-### How to reach me :mailbox: 
+### How to reach me :mailbox: :
 [![Linkedin Badge](https://img.shields.io/badge/-Timiphil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
 [![Twitter Badge](https://img.shields.io/badge/-Timi_phil-white?style=flat&logo=Twitter&logoColor=blue)]([https://www.linkedin.com/in/rotimi-ishola/](https://twitter.com/Timi_phil))
 
@@ -57,6 +57,11 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://img.icons8.com/color/35/000000/react--v1.png" title="React" alt="React" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML5" alt="HTML" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3" alt="CSS" width="40" height="40"/> 
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
