@@ -45,8 +45,8 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 - 💞️ I’m looking to collaborate on different projects on Web Dev.
 
 ### How to reach me :mailbox: :
-[![Linkedin Badge](https://img.shields.io/badge/-Timiphil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
-[![Twitter Badge](https://img.shields.io/badge/-Timiphil-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Timi_phil)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Timi_phil)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:timiphil@gmail.com)
 
 
@@ -74,8 +74,6 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Timiphil&theme=dark&background=000000)](https://github.com/Timiphil)
  
- 
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timiphil&layout=compact&theme=vision-friendly-dark)](https://github.com/Timiphil?tab=repositories)
   
  </div> 
