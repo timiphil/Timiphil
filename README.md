@@ -38,7 +38,7 @@ I'm currently looking for a full-time role in Frontend Developer <img src="https
 
 - 👀 I’m interested in Web Development.
 
-- :seedling: Exploring Technical Content Writing, React and Typescript libraries.
+- :seedling: Exploring Technical Content Writing, React, Typescript, and Next libraries.
 
 - :zap: In my free time, I solve problems on leetcode, Frontendmentors and read tech articles.
 
