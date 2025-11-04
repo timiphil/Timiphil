@@ -30,19 +30,19 @@
 
 ### :man_technologist: About Me :
 
-👋 Hi, I’m Rotimi Phil Ishola
+👋 Hi, I’m Rotimi Ishola
 
-I'm currently looking for a full-time role in Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am currently seeking entry-level roles or internships in Cybersecurity, IT Support, or Tech Consulting <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working and contributing to frontend for building web applications.
+- :telescope: I focus on identifying vulnerabilities, responding to threats, and strengthening security operations across cloud and enterprise environments. I also worked and contributed to frontend for building web applications.
 
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Secure Website and passionate about protecting digital infrastructure. 
 
-- :seedling: Exploring Technical Content Writing, React, Typescript, and Next libraries.
+- :seedling: I’m combining technical expertise with compliance awareness to help organizations stay secure and resilient. Exploring Technical Content Writing, Python, React, Typescript, and Next libraries.
 
-- :zap: In my free time, I solve problems on leetcode, Frontendmentors and read tech articles.
+- :zap: In my free time, I set up home lab, solve problems on Bug Bounty, Frontendmentors and read tech articles.
 
-- 💞️ I’m looking to collaborate on different projects on Web Dev.
+- 💞️ I’m looking to collaborate on different projects on Cybersurity.
 
 ### How to reach me :mailbox: :
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
