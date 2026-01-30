@@ -32,17 +32,17 @@
 
 👋 Hi, I’m Rotimi Ishola
 
-I am currently seeking entry-level roles or internships in Cybersecurity, IT Support, or Tech Consulting <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am currently seeking entry-level roles in Cybersecurity, IT Support, or Tech Consulting <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I focus on identifying vulnerabilities, responding to threats, and strengthening security operations across cloud and enterprise environments. I also worked and contributed to frontend for building web applications.
+- :telescope: I focus on identifying vulnerabilities, responding to threats, and strengthening security operations across cloud and enterprise environments. I`ve also contributed to frontend for building web applications.
 
 - 👀 I’m interested in Secure Website and passionate about protecting digital infrastructure. 
 
-- :seedling: I’m combining technical expertise with compliance awareness to help organizations stay secure and resilient. Exploring Technical Content Writing, Python, React, Typescript, and Next libraries.
+- :seedling: I’m combining technical expertise with compliance awareness to help organizations stay secure and resilient. Exploring Technical Contents in AI, System Hardening, React, Vulnerability Analysis, and Malware Detection.
 
-- :zap: In my free time, I set up home lab, solve problems on Bug Bounty, Frontendmentors and read tech articles.
+- :zap: In my free time, I set up home labs, solve problems on CTF and Bug Bounty, read tech articles.
 
-- 💞️ I’m looking to collaborate on different projects on Cybersurity.
+- 💞️ I’m looking to collaborate on different projects in Cybersecurity.
 
 ### How to reach me :mailbox: :
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rotimi-ishola/)
