@@ -32,7 +32,7 @@
 
 👋 Hi, I’m Rotimi Ishola
 
-I am currently seeking entry-level roles in Cybersecurity, IT Support, or Tech Consulting <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am currently seeking entry-level roles in Cybersecurity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I focus on identifying vulnerabilities, responding to threats, and strengthening security operations across cloud and enterprise environments. I`ve also contributed to frontend for building web applications.
 
